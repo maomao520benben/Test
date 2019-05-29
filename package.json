@@ -1,0 +1,22 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "测试npm",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo name"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maomao520benben/Test.git"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "zhengdong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maomao520benben/Test/issues"
+  },
+  "homepage": "https://github.com/maomao520benben/Test#readme"
+}
